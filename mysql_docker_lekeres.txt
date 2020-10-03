@@ -1,0 +1,3 @@
+docker exec -it <container id> mysql -uroot -p1234
+USE JQTJ7Y;
+SELECT * FROM Airports WHERE ID < 200;
